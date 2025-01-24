@@ -21,4 +21,4 @@
 - 📦 [Infraestrutura como Código com Terraform](https://github.com/seu-usuario/projeto-terraform)
 
 ## 📫 Entre em Contato
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
+- [LinkedIn]www.linkedin.com/in/davi-lucas2812-63b939237 

@@ -16,7 +16,7 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
 
 ## 🌟 Projetos Destacados
-- 🛠️ [Front-End, Design de UI/UX.](https://comect.netlify.app/)
+- 🛠️ [Front-End, Design de UI/UX/ Site.](https://comect.netlify.app/)
 - 🖥️ [Orquestração de Contêineres com Kubernetes](https://github.com/seu-usuario/projeto-kubernetes)
 - 📦 [Infraestrutura como Código com Terraform](https://github.com/seu-usuario/projeto-terraform)
 

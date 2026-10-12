@@ -1,24 +1,31 @@
-👋 Olá, eu sou Davi!
+# Olá! Eu sou o Davi 👋
 
-🔧 **DevOps Engineer** | 🚀 **Automatizador de infraestrutura**  
-🌐 Apaixonado por **Cloud Computing, CI/CD e Segurança**
+### Desenvolvedor Backend Júnior em desenvolvimento
 
-## 🚀 Ferramentas e Tecnologias
-- **Infraestrutura como Código (IaC)**: Terraform, Ansible, CloudFormation
-- **Orquestração de Contêineres**: Kubernetes, Docker
-- **Cloud**: AWS, Azure, GCP
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI
-- **Observabilidade**: Prometheus, Grafana, ELK Stack
-- **Outros**: Bash, Python, Go
+Sou profissional de TI com experiência em suporte técnico corporativo e foco no desenvolvimento backend. Busco transformar conhecimentos de lógica de programação, APIs e bancos de dados em soluções práticas e bem estruturadas.
 
-- ## 📈 Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+## 🚀 Tecnologias
 
-## 🌟 Projetos Destacados
-- 🛠️ [Front-End, Design de UI/UX/ Site.](https://comect.netlify.app/)
-- 🖥️ [Orquestração de Contêineres com Kubernetes](https://github.com/seu-usuario/projeto-kubernetes)
-- 📦 [Infraestrutura como Código com Terraform](https://github.com/seu-usuario/projeto-terraform)
+- **Backend:** Node.js, JavaScript, Express
+- **Banco de dados:** PostgreSQL, MySQL
+- **ORM:** Prisma
+- **Conceitos:** APIs REST, CRUD, validação de dados
+- **Ferramentas:** Git, GitHub, Linux
 
-## 📫 Entre em Contato
-- [LinkedIn]www.linkedin.com/in/davi-lucas2812-63b939237 
+## 💻 Projetos em destaque
+
+### Stock-control
+Sistema de controle de estoque com foco no desenvolvimento de uma API REST para gerenciamento de equipamentos e consulta de informações de estoque.
+
+**Evolução do projeto:** persistência em banco de dados, organização da API, validações e testes automatizados.
+
+[Ver repositório](https://github.com/SouReiDavi/Stock-control)
+
+## 🎯 Objetivo profissional
+
+Conquistar uma oportunidade como Desenvolvedor Backend Júnior, contribuindo para o desenvolvimento e a manutenção de aplicações, APIs e sistemas.
+
+## 📫 Contato
+
+- GitHub: https://github.com/SouReiDavi
+- LinkedIn: [adicione aqui o seu perfil]
